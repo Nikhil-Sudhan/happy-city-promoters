@@ -1,0 +1,18 @@
+[
+  {
+    "file": "/images/happy-city-office.jpg",
+    "source": "https://www.happycitypromoters.com/assets/img/portfolio/portfolio-2.jpg",
+    "subject": "Office exterior, Dindigul",
+    "verifiedOn": "2026-10-08",
+    "unaltered": true,
+    "sha256": "54456a0bd6c11237ad5cfd35506cc9df0d4cb9a1878daca0b133fe579cfef334"
+  },
+  {
+    "file": "/images/happy-city-reception.jpg",
+    "source": "https://www.happycitypromoters.com/assets/img/slide/slide-3.jpg",
+    "subject": "Office reception, Dindigul",
+    "verifiedOn": "2026-10-08",
+    "unaltered": true,
+    "sha256": "210805c1b5dbb6656e9b6ec7f437469d61362d50994cb8e2f132edd8f215bfd2"
+  }
+]

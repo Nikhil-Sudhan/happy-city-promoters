@@ -1,0 +1,44 @@
+{
+  "gana": {
+    "source": "https://www.happycitypromoters.com/gana.php",
+    "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.492605181087!2d77.88410499999999!3d10.382394!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0!2zMTDCsDIyJzU2LjYiTiA3N8KwNTMnMDIuOCJF!5e0!3m2!1sen!2sin!4v1672656032308!5m2!1sen!2sin",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=10.382394,77.88410499999999",
+    "verifiedOn": "2026-10-08"
+  },
+  "maha": {
+    "source": "https://www.happycitypromoters.com/maha.php",
+    "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3925.566120549218!2d77.93854!3d10.296499999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0!2zMTDCsDE3JzQ3LjQiTiA3N8KwNTYnMTguNyJF!5e0!3m2!1sen!2sin!4v1668848617154!5m2!1sen!2sin",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=10.296499999999998,77.93854",
+    "verifiedOn": "2026-10-08"
+  },
+  "college_2": {
+    "source": "https://www.happycitypromoters.com/college_2.php",
+    "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62776.99062932222!2d77.92732245!3d10.456295549999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba9ff5fe2fb5187%3A0xe0e989e3f85fda4!2sAgaram%2C%20Tamil%20Nadu!5e0!3m2!1sen!2sin!4v1672655937147!5m2!1sen!2sin",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=10.456295549999998,77.92732245",
+    "verifiedOn": "2026-10-08"
+  },
+  "paradise": {
+    "source": "https://www.happycitypromoters.com/paradise.php",
+    "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3925.566120549218!2d77.93854!3d10.296499999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0!2zMTDCsDE3JzQ3LjQiTiA3N8KwNTYnMTguNyJF!5e0!3m2!1sen!2sin!4v1668848521886!5m2!1sen!2sin",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=10.296499999999998,77.93854",
+    "verifiedOn": "2026-10-08"
+  },
+  "prg": {
+    "source": "https://www.happycitypromoters.com/prg.php",
+    "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3925.021179054275!2d77.940558!3d10.340189999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0!2zMTDCsDIwJzI0LjciTiA3N8KwNTYnMjYuMCJF!5e0!3m2!1sen!2sin!4v1672655772976!5m2!1sen!2sin",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=10.340189999999998,77.940558",
+    "verifiedOn": "2026-10-08"
+  },
+  "skt": {
+    "source": "https://www.happycitypromoters.com/skt.php",
+    "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3925.4270277629334!2d77.943471!3d10.307668999999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0!2zMTDCsDE4JzI3LjYiTiA3N8KwNTYnMzYuNSJF!5e0!3m2!1sen!2sin!4v1672656990254!5m2!1sen!2sin",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=10.307668999999999,77.943471",
+    "verifiedOn": "2026-10-08"
+  },
+  "happyc": {
+    "source": "https://www.happycitypromoters.com/happyc.php",
+    "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3925.3255376203238!2d77.940118!3d10.315811!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0!2zMTDCsDE4JzU2LjkiTiA3N8KwNTYnMjQuNCJF!5e0!3m2!1sen!2sin!4v1672656358872!5m2!1sen!2sin",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=10.315811,77.940118",
+    "verifiedOn": "2026-10-08"
+  }
+}

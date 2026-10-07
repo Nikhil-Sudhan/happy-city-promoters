@@ -30,15 +30,15 @@ npm run dev:explorer
 
 An orange, ivory, and sage website with English/Tamil switching, larger-text control, mobile navigation, project filters, project details, buying guidance, FAQ, and an enquiry form.
 
-Update `portfolio/src/config.js` with the verified phone number, office address, and WhatsApp number. The email `happycitymts@gmail.com` was verified on the official Contact page on 8 October 2026. The explorer link automatically uses the local development server in development and `/plot-explorer/` in production. Until WhatsApp is configured, submitting the enquiry form downloads an enquiry text file and clearly states that it was **not sent**. When configured, the form opens a prefilled WhatsApp message for the visitor to review and send. No enquiry information is saved by this website.
+Contact details in `portfolio/src/config.js` were verified on the official contact page on 8 October 2026: +91 96003 06517, happycitymts@gmail.com, RM Colony Main Road, Dindigul 624001. WhatsApp is unset because support on this number has not been confirmed. Submitting the form opens a prefilled email for the visitor to review and send; no enquiry is automatically delivered or saved. If a verified WhatsApp number is configured, it takes precedence.
 
-The 13 project names and locations were sourced from https://www.happycitypromoters.com/ on 7 October 2026 (search-indexed page; direct retrieval was blocked by the site's server). No approval claims, prices, testimonials, years of experience, or availability have been invented. Confirm all project information before publishing. Project names remain proper names in both languages; Tamil copy should receive a business/native-speaker editorial review before launch.
+The 13 project names and locations are sourced from https://www.happycitypromoters.com/. No approval claims, prices, testimonials, or availability have been invented. Project names remain proper names in both languages; Tamil copy should receive a business/native-speaker editorial review before launch.
 
-The supplied official logo is used unchanged in both website headers and the portfolio footer. The original 5400 × 900 JPEG is stored at public/images/happy-city-logo.jpg in each project. Landscape images are illustrative Unsplash photographs, labeled as such, and must be replaced with actual project photographs when available:
+The supplied 5400 × 900 official logo is unchanged in both website headers and the portfolio footer. All stock landscape photographs have been removed. The two office photographs are unmodified files from the official gallery, served locally with explicit office captions; they are not plot photographs. See `portfolio/src/media-sources.json` for source URLs and SHA-256 checksums.
 
-- https://images.unsplash.com/photo-1500382017468-9049fed747ef
-- https://images.unsplash.com/photo-1472396961693-142e6e269027
-- https://images.unsplash.com/photo-1441974231531-c6227db76b6e
+Seven original Google Maps embeds from official project pages are recorded in `portfolio/src/location-data.json`. Visitors load one map at a time on request; the links to Google Maps and the original project page remain available if an embed is blocked. Google's attribution remains in the iframe. No API key is needed for these existing published embeds, and no Google photos or map tiles are scraped or cached.
+
+The maps are company-published locations, not independently verified site entrances or surveyed boundaries. The College Town II page points to the broad Agaram area; Paradise and Mahatma publish the same pin. The UI therefore asks visitors to confirm the entrance with the team. No authenticated site photographs were found for individual plots, so project cards use location details and maps rather than unrelated imagery. Street View is recorded imagery, not live video; availability varies.
 
 ## 2. Plot explorer (`plot-explorer/`)
 
