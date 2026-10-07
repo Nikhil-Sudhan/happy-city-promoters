@@ -1,0 +1,12 @@
+{
+  "name": "happy-city-websites",
+  "private": true,
+  "workspaces": ["portfolio", "plot-explorer"],
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "dev:portfolio": "npm run dev --workspace portfolio",
+    "dev:explorer": "npm run dev --workspace plot-explorer",
+    "build": "npm run build --workspaces && node scripts/package-sites.mjs",
+    "test": "node --test plot-explorer/tests/model.test.js"
+  }
+}
